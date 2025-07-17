@@ -1,0 +1,56 @@
+.logo{
+    display: inline;
+    color:rgb(2, 2, 53);
+    padding-left: 23px;
+    padding-top: 20px;
+}
+#buttons{
+    display:inline;
+    padding-left:500px;
+    word-spacing: 30px;
+    color:rgb(6, 99, 86)
+}
+.get{
+    display:inline;
+    background-color: rgb(5, 5, 102);
+    color:white;
+}
+.main{
+    color:rgb(9, 100, 100);
+    padding-left:60px;
+    padding-top: 30px;
+    font-size:x-large;
+}
+.land{
+    color:rgb(5, 109, 109);
+    padding-left:60px;
+    padding-bottom:0%;
+    font-size:x-large;
+}
+.para{
+    color: rgb(7, 112, 112);
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.learn{
+    background-color: rgb(30, 4, 102);
+    color:white;
+}
+body{
+    background-image:url(IMG.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-attachment: fixed;
+}
+.imo{
+    padding-top:20px;
+}
+
+
+
+
+
+    
+
+
